@@ -4,11 +4,10 @@ this is three line
 
 install dev
 install dev master haha
-
 insert dev test
-
 this is master
 hello branch
-
 insert dev test
 world add
+
+dev insert no fast
