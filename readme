@@ -11,3 +11,5 @@ insert dev test
 world add
 dev bug
 dev insert no fast
+
+push dev
